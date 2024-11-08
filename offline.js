@@ -1,0 +1,31 @@
+﻿{
+	"version": 1731026472,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/dyingblock-sheet0.png",
+		"images/door.png",
+		"images/floating.png",
+		"images/mainscreenbg-sheet0.png",
+		"images/sky.png",
+		"images/startbtn-sheet0.png",
+		"images/camera-sheet0.png",
+		"images/coin-sheet0.png",
+		"images/fireball-sheet0.png",
+		"images/fireball-sheet1.png",
+		"images/spike-sheet0.png",
+		"images/james-sheet0.png",
+		"images/james-sheet1.png",
+		"images/james-sheet2.png",
+		"images/map1_0.png",
+		"media/collect coin.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
